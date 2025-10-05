@@ -36,10 +36,11 @@
   <!-- النص الأساسي -->
   <text x="70%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="Adobe Arabic,serif"
-        font-size="42"
+        font-size="38"
         font-weight="700"
         fill="url(#grad)"
         filter="url(#innerShadow) url(#glow)">
     القطان للزجاج والبللور
   </text>
+
 </svg>
