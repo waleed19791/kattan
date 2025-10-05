@@ -21,7 +21,7 @@
     </filter>
 
     <!-- حواف مضاءة -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <filter id="glow" x="-80%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
@@ -44,3 +44,4 @@
   </text>
 
 </svg>
+
